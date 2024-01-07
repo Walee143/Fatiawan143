@@ -188,7 +188,7 @@ logo=(f"""{WHITE}
 {WHITE}[•] WhatsApp     :   KIYA KAREGA NUM..KA
 [•] FaceBook     :   MALIK WALEE
 [•] Version      :   {RED}0:1
-{WHITE}[•] YouTube      :   SOCH RHI BNA LU
+{WHITE}[•] YouTube      :   EXO X KAIISHU
 
 {WHITE}================================================
    '\033[1;32m'ITS ⚠️ BRAND ⚠️FATIMA⚠️ AWAN\33[0;m
